@@ -1,0 +1,10 @@
+D:\Мишкины\Un\ExampleSQLApp\ExampleSQLApp\bin\Debug\ExampleSQLApp.exe.config
+D:\Мишкины\Un\ExampleSQLApp\ExampleSQLApp\bin\Debug\ExampleSQLApp.exe
+D:\Мишкины\Un\ExampleSQLApp\ExampleSQLApp\bin\Debug\ExampleSQLApp.pdb
+D:\Мишкины\Un\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.csprojAssemblyReference.cache
+D:\Мишкины\Un\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.LoginForm1.resources
+D:\Мишкины\Un\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.Properties.Resources.resources
+D:\Мишкины\Un\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.csproj.GenerateResource.cache
+D:\Мишкины\Un\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.csproj.CoreCompileInputs.cache
+D:\Мишкины\Un\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.exe
+D:\Мишкины\Un\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.pdb
